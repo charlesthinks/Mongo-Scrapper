@@ -1,0 +1,8 @@
+{
+    "name": "Mongo Scrapper",
+    "description": "Scraps news articles from the web.",
+    "repository": "https://github.com/charlesthinks/Mongo-Scrapper.git",
+    "logo": "http://free-icon-rainbow.com/i/icon_04682/icon_046820_64.png",
+    "keywords": ["node", "heroku", "github"],
+    "image": "heroku/nodejs"
+}
